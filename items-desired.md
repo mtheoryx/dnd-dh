@@ -9,26 +9,26 @@
 
 ## Armor
 
-Adamantine Armor (Uncommon)
-Mithral Armor (Uncommon)
+- Adamantine Armor (Uncommon)
+- Mithral Armor (Uncommon)
 
 ## Weapon
 
-Weapon of Warning (Uncommon)
-Javelin of Lightning (Uncommon)
-Weapon, +1 (Uncommon)
-Weapon of Certain Death (Rare)
+- Weapon of Warning (Uncommon)
+- Javelin of Lightning (Uncommon)
+- Weapon, +1 (Uncommon)
+- Weapon of Certain Death (Rare)
 
 ## Shield
 
-Sentinel Shield (Uncommon)
-Shield, +1 (Uncommon)
-Shield, +2 (Rare)
+- Sentinel Shield (Uncommon)
+- Shield, +1 (Uncommon)
+- Shield, +2 (Rare)
 
 ## Misc
 
-Immovable Rod (uncommon)
-Bag of Tricks (gray, rust, or tan) (Uncommon)
-Ring of Shared Suffering (Uncommon)
-Winged Boots (uncommon)
-Ring of Spell Storing (Rare)
+- Immovable Rod (uncommon)
+- Bag of Tricks (gray, rust, or tan) (Uncommon)
+- Ring of Shared Suffering (Uncommon)
+- Winged Boots (uncommon)
+- Ring of Spell Storing (Rare)
