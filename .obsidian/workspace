@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Readme.md",
+            "file": "items-desired.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c247dce2fda30f46",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "items-desired.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "items-desired.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +99,15 @@
   },
   "active": "73e4fdb5f898a50f",
   "lastOpenFiles": [
-    "Readme.md"
+    "items-desired.md",
+    "Untitled.md",
+    "Sessions/session-11.md",
+    "Sessions/session-10.md",
+    "Goals.md",
+    "TODO.md",
+    "Sessions/session-9.md",
+    "Readme.md",
+    "Locations.md",
+    "Ledger.md"
   ]
 }
