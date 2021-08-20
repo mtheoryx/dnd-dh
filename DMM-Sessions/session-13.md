@@ -1,6 +1,6 @@
-# Session 12
+# Session 13
 
-Friday Aug 13, 2021
+Friday Aug 20, 2021
 
 ## Notes
 
@@ -11,7 +11,7 @@ Friday Aug 13, 2021
 - [x] Pay off the house loan
 - [ ] Open the tavern
 - [x] Prepare to spend the money? Pick some items
-- [ ] Do a dive in the Yawning Portal
+- [ ] Do a dive in the Yawning Portal, survive, find magic items
 
 ### Beginning Tasks (recap)
 
@@ -25,10 +25,6 @@ Starting ledger
 
 | Copper | Silver | Gold | Platinum |
 | --- | --- | --- | --- |
-| 168 | 90 | 38 | 1 |
+| 168 | 90 | 3 | 45 |
 
 Ending ledger
-
-| Copper | Silver | Gold | Platinum |
-| --- | --- | --- | --- |
-| 168 | 90 | 3 | 45 |

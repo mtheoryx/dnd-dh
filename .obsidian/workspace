@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DH-Sessions/session-12.md",
+                "file": "DMM-Sessions/session-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c247dce2fda30f46",
+  "active": "a59368b45bd1c9e6",
   "lastOpenFiles": [
-    "DH-Sessions/session-12.md",
     "DMM-Sessions/session-13.md",
+    "DH-Sessions/session-12.md",
+    "Ledger.md",
     "Untitled.md",
     "Goals.md",
     "Sessions/session-12.md",
     "Sessions/session-11.md",
     "items-desired.md",
     "Sessions/session-10.md",
-    "TODO.md",
-    "Sessions/session-9.md"
+    "TODO.md"
   ]
 }
