@@ -4,24 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "73e4fdb5f898a50f",
+        "id": "c247dce2fda30f46",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "items-desired.md",
+            "file": "DH-Sessions/session-12.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
       },
       {
-        "id": "c247dce2fda30f46",
+        "id": "a59368b45bd1c9e6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "items-desired.md",
-            "mode": "preview"
+            "file": "DMM-Sessions/session-13.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "items-desired.md",
+                "file": "DH-Sessions/session-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "73e4fdb5f898a50f",
+  "active": "c247dce2fda30f46",
   "lastOpenFiles": [
-    "items-desired.md",
+    "DH-Sessions/session-12.md",
+    "DMM-Sessions/session-13.md",
     "Untitled.md",
-    "Sessions/session-11.md",
-    "Sessions/session-10.md",
     "Goals.md",
+    "Sessions/session-12.md",
+    "Sessions/session-11.md",
+    "items-desired.md",
+    "Sessions/session-10.md",
     "TODO.md",
-    "Sessions/session-9.md",
-    "Readme.md",
-    "Locations.md",
-    "Ledger.md"
+    "Sessions/session-9.md"
   ]
 }

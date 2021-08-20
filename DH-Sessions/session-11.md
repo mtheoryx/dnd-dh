@@ -6,7 +6,7 @@ Friday Aug 6, 2021
 
 ### Goals to remember
 
-- [x] Get the loot (carrying the stone)
+- [ ] Get the loot (carrying the stone)
 - Who's this ghost in our house?
 - Finish the house, open the taveren?
 - [x] Zavari spell book done
@@ -157,6 +157,8 @@ And River and Maloon are like charmed by the fresco on the wall
 
 Out of combat, River and Maloon are out of the daze, and we end the episode!
 
+Spent 10 gold somewhere, apparently?
+
 ### Ending Tasks
 
 - 3 Keys [[Aurinx]]
@@ -182,4 +184,4 @@ Ending ledger
 
 | Copper | Silver | Gold | Platinum |
 | --- | --- | --- | --- |
-| 168 | 90 | 48 | 1 |
+| 168 | 90 | 38 | 1 |
