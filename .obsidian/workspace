@@ -4,27 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c247dce2fda30f46",
+        "id": "6c2ad0bb23c95eea",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DH-Sessions/session-12.md",
+            "file": "DMM-Sessions/session-16.md",
             "mode": "source"
           },
           "pinned": true
         }
       },
       {
-        "id": "a59368b45bd1c9e6",
+        "id": "0b36ef7a1095150b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DMM-Sessions/session-13.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -55,7 +52,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -81,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMM-Sessions/session-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a59368b45bd1c9e6",
+  "active": "0b36ef7a1095150b",
   "lastOpenFiles": [
-    "DMM-Sessions/session-13.md",
-    "DH-Sessions/session-12.md",
-    "Ledger.md",
     "Untitled.md",
-    "Goals.md",
-    "Sessions/session-12.md",
-    "Sessions/session-11.md",
+    "DMM-Sessions/session-16.md",
+    "Untitled 1.md",
+    "DH-Sessions/session-11.md",
+    "DH-Sessions/session-12.md",
+    "DMM-Sessions/session-15.md",
     "items-desired.md",
-    "Sessions/session-10.md",
-    "TODO.md"
+    "DMM-Sessions/session-13.md",
+    "DMM-Sessions/session-14.md",
+    "NPCs.md"
   ]
 }

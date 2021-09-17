@@ -158,7 +158,7 @@ Spellbooks, paid based on highest level in the book
 Talk to volo, he's pumping for answers, we don't tell about the dragon
 Quinn, take a gold, to bet against us
 Looking for something
-Last Coronal, disappeared from where the mad mage built tower
+Last Colonel, disappeared from where the mad mage built tower
 Stone craft, alabaster throne, stolen from elves from under the dwarves noses
 Quest! Find it, get it, or note where it is
 Monsters? Unique, catalog them for Volo
@@ -179,13 +179,17 @@ Nurel: Woman in cloak, mask over face, says "Would you be willing to find someon
 
 We have all arrived at the bottom, and we break for the night.
 
-
 ### Ending Tasks
 
 - [ ] Who's this ghost in our house?
 - [ ] Open the tavern
 - [x] Put new items/stats on my sheet
-- [ ] In the undermountain, what next?
+- [x] In the undermountain, what next?
+- [ ]  Do a dive in the Yawning Portal, survive, find magic items for [[Obaya Uday]], rewards offered
+- [ ] Woman in cloak, mask over face, says "Would you be willing to find someone while you're down there? 22yo man, dark skin, signet ring (diving white falcon on field of blue)" Family crest. If you can find him, House Rosnar, you can trust.
+- [ ] Catalog new monsters for volo in the yawning portal
+- [ ] Last Colonel, disappeared from where the mad mage built tower
+Stone craft, alabaster throne, stolen from elves from under the dwarves noses
 
 ## Ledger
 
